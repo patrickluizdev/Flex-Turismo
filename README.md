@@ -1,6 +1,6 @@
 # Flex-Turismo
 
-## Nesse projeto proposto pelo Bootcamp *Spread Fullstack Developer* recebi o desafio de reconstruir a página utilizando utilizado CSS com Flexbox a partir de um design proposto pelo figma, uma das abordagens de posicionamento de elementos mais utilizadas quando se trata de responsividade.
+## Nesse projeto proposto pelo Bootcamp *Spread Fullstack Developer* recebi o desafio de reconstruir a página utilizando utilizado CSS com Flexbox a partir de um design proposto pelo figma.
 ###  LINK DO PROJETO:
 ### https://patrickluizdev.github.io/Flex-Turismo/
 
